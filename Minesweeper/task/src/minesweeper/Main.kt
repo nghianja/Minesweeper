@@ -2,10 +2,10 @@ package minesweeper
 
 import kotlin.random.Random
 
-fun main() {
-    val rows = 9
-    val cols = 9
-    val mines = 10
+const val rows = 9
+const val cols = 9
+
+private fun plantMines(mines: Int): Array<CharArray> {
     val minefield = Array<CharArray>(rows) { CharArray(cols) { '.' } }
     var m = 0
     while (m < mines) {
@@ -16,6 +16,12 @@ fun main() {
             m++
         }
     }
+    return minefield
+}
+
+fun main() {
+    print("How many mines do you want on the field? ")
+    val minefield = plantMines(readLine()!!.toInt())
     for (i in 1..rows) {
         for (j in 1..cols) {
             print(minefield[i - 1][j - 1])
