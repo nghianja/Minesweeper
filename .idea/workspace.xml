@@ -18,8 +18,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Minesweeper/task/Minesweeper-task_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Minesweeper/Flexible mines/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/Flexible mines/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/Look around you/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/Look around you/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minesweeper/Prepare for battle/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/Prepare for battle/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/build/classes/java/test/MinesweeperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/build/classes/java/test/MinesweeperTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/build/classes/kotlin/main/minesweeper/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/build/classes/kotlin/main/minesweeper/MainKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
@@ -56,6 +56,7 @@
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/build/test-results/test/TEST-MinesweeperTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/build/test-results/test/TEST-MinesweeperTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minesweeper/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/out/production/classes/minesweeper/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/out/production/classes/minesweeper/MainKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Minesweeper/task/src/minesweeper/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Minesweeper/task/src/minesweeper/Main.kt" afterDir="false" />
@@ -123,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584128900601</updated>
-      <workItem from="1584128908670" duration="7313000" />
+      <workItem from="1584128908670" duration="13177000" />
     </task>
     <servers />
   </component>
@@ -131,25 +132,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1366" height="224" key="GridCell.Tab.0.bottom" timestamp="1584215440688">
+    <state width="1366" height="224" key="GridCell.Tab.0.bottom" timestamp="1584259046020">
       <screen x="54" y="23" width="1386" height="877" />
     </state>
-    <state width="1366" height="224" key="GridCell.Tab.0.bottom/54.23.1386.877@54.23.1386.877" timestamp="1584215440688" />
+    <state width="1366" height="224" key="GridCell.Tab.0.bottom/54.23.1386.877@54.23.1386.877" timestamp="1584259046020" />
     <state width="1366" height="224" key="GridCell.Tab.0.bottom/60.23.1380.877@60.23.1380.877" timestamp="1584211553329" />
-    <state width="1366" height="224" key="GridCell.Tab.0.center" timestamp="1584215440687">
+    <state width="1366" height="224" key="GridCell.Tab.0.center" timestamp="1584259046019">
       <screen x="54" y="23" width="1386" height="877" />
     </state>
-    <state width="1366" height="224" key="GridCell.Tab.0.center/54.23.1386.877@54.23.1386.877" timestamp="1584215440687" />
+    <state width="1366" height="224" key="GridCell.Tab.0.center/54.23.1386.877@54.23.1386.877" timestamp="1584259046019" />
     <state width="1366" height="224" key="GridCell.Tab.0.center/60.23.1380.877@60.23.1380.877" timestamp="1584211553328" />
-    <state width="1366" height="224" key="GridCell.Tab.0.left" timestamp="1584215440687">
+    <state width="1366" height="224" key="GridCell.Tab.0.left" timestamp="1584259046018">
       <screen x="54" y="23" width="1386" height="877" />
     </state>
-    <state width="1366" height="224" key="GridCell.Tab.0.left/54.23.1386.877@54.23.1386.877" timestamp="1584215440687" />
+    <state width="1366" height="224" key="GridCell.Tab.0.left/54.23.1386.877@54.23.1386.877" timestamp="1584259046018" />
     <state width="1366" height="224" key="GridCell.Tab.0.left/60.23.1380.877@60.23.1380.877" timestamp="1584211553328" />
-    <state width="1366" height="224" key="GridCell.Tab.0.right" timestamp="1584215440688">
+    <state width="1366" height="224" key="GridCell.Tab.0.right" timestamp="1584259046019">
       <screen x="54" y="23" width="1386" height="877" />
     </state>
-    <state width="1366" height="224" key="GridCell.Tab.0.right/54.23.1386.877@54.23.1386.877" timestamp="1584215440688" />
+    <state width="1366" height="224" key="GridCell.Tab.0.right/54.23.1386.877@54.23.1386.877" timestamp="1584259046019" />
     <state width="1366" height="224" key="GridCell.Tab.0.right/60.23.1380.877@60.23.1380.877" timestamp="1584211553329" />
     <state x="421" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1584128906728">
       <screen x="60" y="23" width="1380" height="877" />
